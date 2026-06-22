@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com? font=Orbitron&weight=700&size=34&pause=1000&color=FF6B35&center=true&vCenter=true&width=1200&lines=🎟️+Movie+Ticket+Booking+System;Built+Using+C%2B%2B;Manage+Movies+And+Bookings;Fast+Reliable+And+Efficient;Object+Oriented+Programming+Project" />
 
-<br
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF6B35,100:E63946&text=Movie%20Ticket%20Booking%20System&fontSize=45&fontColor=ffffff&animation=twinkling" />
 
