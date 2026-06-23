@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-
 class booking   
 { 
 private:
