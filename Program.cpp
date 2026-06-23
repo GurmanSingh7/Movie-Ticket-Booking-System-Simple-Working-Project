@@ -2,8 +2,7 @@
 using namespace std;
 
 class booking   
-
-
+{
 
 private:
 
