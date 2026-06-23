@@ -2,7 +2,7 @@
 using namespace std;
 
 
-class booking 
+class booking   
 { 
 private:
     string customername;
