@@ -2,13 +2,10 @@
 using namespace std;
 
 class booking   
-
 {
-
 private:
 
     string customername;
-
     string moviename;
     int ticket;
     int ticketprice;
