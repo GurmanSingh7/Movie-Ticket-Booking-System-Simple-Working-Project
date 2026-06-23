@@ -92,7 +92,7 @@ int booking::totalbooking = 0;
 int booking::totalseatbooked = 0;
 int main()
 {
-    booking b1 , b2    ;
+    booking b1 , b2;
     b1.inputdetail();
     b1.displaybooking();
     b2.inputdetail();
