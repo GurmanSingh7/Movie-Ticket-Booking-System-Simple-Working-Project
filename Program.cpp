@@ -3,8 +3,7 @@ using namespace std;
 
 class booking   
 {
-private:
-
+private
     string customername;
     string moviename;
     int ticket;
