@@ -12,6 +12,7 @@ private:
     float totalamount; //->when we apply percentage to the amount it will come in float type so amount should be in float to prevent error and successful execution of the code of same.
 
 public:
+
     static int totalbooking; 
     static int totalseatbooked;
 
