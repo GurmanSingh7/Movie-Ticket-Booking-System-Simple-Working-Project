@@ -88,8 +88,10 @@ public:
         cout<<"Total Seats Booked: "<<totalseatbooked<<endl;
     }
 };
+
 int booking::totalbooking = 0;
 int booking::totalseatbooked = 0;
+
 int main()
 {
     booking b1 , b2;
@@ -98,5 +100,6 @@ int main()
     b2.inputdetail();
     b2.displaybooking();
     booking::showstatitics();
+    
     return 0;
 }
